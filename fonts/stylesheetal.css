@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Abhaya Libre';
+    src: url('AbhayaLibre-Bold.eot');
+    src: local('Abhaya Libre Bold'), local('AbhayaLibre-Bold'),
+        url('../fonts/AbhayaLibre-Bold.eot') format('embedded-opentype'),
+        url('../fonts/AbhayaLibre-Bold.woff2') format('woff2'),
+        url('../fonts/AbhayaLibre-Bold.woff') format('woff'),
+        url('../fonts/AbhayaLibre-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
